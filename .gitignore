@@ -256,4 +256,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.agents/skills
+
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,nextjs,node
